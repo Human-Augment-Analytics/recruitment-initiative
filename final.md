@@ -1,4 +1,4 @@
-# Management & Leadership in CS — Final Written Report
+# Management & Leadership in CS: Final Initiative
 
 ## Initiative: Goal-Aligned Task Tracking for the Lizard Classification Research Team
 
